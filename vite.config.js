@@ -12,5 +12,5 @@ export default defineConfig({
           assets: '/src/assets'
         },
       },
-      base: '/water-tracker/',
+      base: '/fs-92-react-node-Stee1Lemon/',
     });
